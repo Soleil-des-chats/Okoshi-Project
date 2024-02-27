@@ -1,6 +1,7 @@
 # Okoshi-Project
 > [!NOTE]
 > The project in in progress and is not actually finished at all.
+
 ![maintained - yes](https://img.shields.io/badge/maintained-yes-blue) [![code style - black](https://img.shields.io/badge/code_style-black-blue)](https://black.readthedocs.io/ "Go to Black homepage")
 
 
