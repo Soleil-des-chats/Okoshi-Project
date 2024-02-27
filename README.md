@@ -1,4 +1,7 @@
 # Okoshi-Project
+> [!NOTE]
+> The project in in progress and is not actually finished at all.
+
 also know as お越し
 
 is a new way to download files with posibility of various options on your files, example : a video file with many resolution 1080p, 720p, 480p. 
