@@ -1,7 +1,7 @@
 # Okoshi-Project
 also know as お越し
 
-is a new way to download files with posibility of various options on your file, ex : a video file with many resolution 1080p, 720p, 480p. 
+is a new way to download files with posibility of various options on your files, example : a video file with many resolution 1080p, 720p, 480p. 
 
 
 ## To-do list
