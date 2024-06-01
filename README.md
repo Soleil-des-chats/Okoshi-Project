@@ -21,7 +21,7 @@ is a new way to download files with posibility of various options on your files,
   - [ ] OpenSource APIs
   - [X] Implement Base64
   - [X] Implement UI    
-  - [ ] Fix refresh when other buttons bug
+  - [X] Fix refresh when other buttons bug
   - [X] Make a logo
   - [X] Browser Support
   - [ ] Native Support
